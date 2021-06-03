@@ -1,0 +1,1 @@
+const ip = "mc.thehighlandsmc.com";
